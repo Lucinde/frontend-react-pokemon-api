@@ -40,7 +40,7 @@ De knoppen worden automatich _disabled_ wanneer het begin of eind van de reeks b
 Ga voor jezelf na wat een handige plek is om te beginnen met ontwikkelen en stel voor jezelf globale stappen op. Mocht je dat nog lastig vinden, kun je ook onderstaande stappen volgen.
 
 ## Stappenplan
-1. Zorg er eerst voor dat je één pokémon kaartje kunt laten zien op de pagina, bijvoorbeeld JigglyPuff (endpoint: ``https://pokeapi.co/api/v2/pokemon/jigglypuff``)
+1. Zorg er eerst voor dat je één pokémon kaartje kunt laten zien op de pagina, bijvoorbeeld JigglyPuff (endpoint: `https://pokeapi.co/api/v2/pokemon/jigglypuff`)
 2. Verplaats vervolgens alle code voor het ophalen en weergeven van JigglyPuff naar een apart Pokémon component en gebruik deze in `App.js`.
 3. Probeer nu dit component in `App.js` twee keer te gebruiken, één keer voor _JigglyPuff_ (endpoint: `https://pokeapi.co/api/v2/pokemon/jigglypuff`) en één keer voor 
 _Ditto_ (endpoint: `https://pokeapi.co/api/v2/pokemon/ditto`). Wat moet je hiervoor aanpassen in het Pokémon component zodat hij generiek te gebruiken wordt?
